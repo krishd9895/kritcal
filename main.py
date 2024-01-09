@@ -14,7 +14,7 @@ bot = telebot.TeleBot(telegram_token)
 
 # API keys
 api_keys = [
-    os.environ["API_KEY1"],
+    os.environ["API_KEY"],
     os.environ["API_KEY2"],
     os.environ["API_KEY3"],
     os.environ["API_KEY4"],
