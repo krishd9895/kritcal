@@ -1,5 +1,5 @@
 requests==2.26.0
 pyTelegramBotAPI==4.0.0
+phonenumbers==8.12.31
 Flask==2.0.1
 Werkzeug==2.0.1
-phonenumbers==8.12.31
